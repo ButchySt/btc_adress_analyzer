@@ -1,6 +1,9 @@
 > This is a tool used to finish an assignment of one of my classes and is completely done using vibe coding
+> 
 > 这是一个用于完成作者的某课程作业的小工具，经历多轮对话（笑）并基本由AI完成
+> 
 > So it might suffer from several potential bugs
+> 
 > 所以可能会有一些bug
 
 
